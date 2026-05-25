@@ -8,7 +8,11 @@
 <img src="https://img.shields.io/github/forks/yourusername/music-bot?style=for-the-badge">
 <img src="https://img.shields.io/github/issues/yourusername/music-bot?style=for-the-badge">
 <img src="https://img.shields.io/github/license/yourusername/music-bot?style=for-the-badge">
+<div align="center">
 
+<img src="https://images.openai.com/static-rsc-4/Xl3OuYfC7ADVvJ4P3k9PhwrHP2k3B6GouMdyj6GM-WhCSpMrG1gYfeSo4RRzpj3sR-Ii_PtDL7oGuzSeO_8RzGASWvlYkQsJ8_NOAjn7ek4KV-a2FUBYV1-_gqlyGvw11hMfrmfAtLaKqtiuNIl_tV1Ubb2kCYcXeOc1NLyAeN1gjHYkMUNnSjfmRReTagyN?purpose=fullsize" width="1000">
+
+</div>
 <br><br>
 
 <a href="https://t.me/DGRavanbhai">
