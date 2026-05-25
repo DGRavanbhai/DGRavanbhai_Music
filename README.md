@@ -4,15 +4,15 @@
 
 <br>
 
-<img src="https://img.shields.io/github/stars/yourusername/music-bot?style=for-the-badge">
-<img src="https://img.shields.io/github/forks/yourusername/music-bot?style=for-the-badge">
-<img src="https://img.shields.io/github/issues/yourusername/music-bot?style=for-the-badge">
-<img src="https://img.shields.io/github/license/yourusername/music-bot?style=for-the-badge">
-<div align="center">
+<img src="https://img.shields.io/github/stars/DGRavanbhai/music-bot?style=for-the-badge">
+<img src="https://img.shields.io/github/forks/DGRavanbhai/music-bot?style=for-the-badge">
+<img src="https://img.shields.io/github/issues/DGRavanbhai/music-bot?style=for-the-badge">
+<img src="https://img.shields.io/github/license/DGRavanbhai/music-bot?style=for-the-badge">
+
+<br><br>
 
 <img src="https://images.openai.com/static-rsc-4/Xl3OuYfC7ADVvJ4P3k9PhwrHP2k3B6GouMdyj6GM-WhCSpMrG1gYfeSo4RRzpj3sR-Ii_PtDL7oGuzSeO_8RzGASWvlYkQsJ8_NOAjn7ek4KV-a2FUBYV1-_gqlyGvw11hMfrmfAtLaKqtiuNIl_tV1Ubb2kCYcXeOc1NLyAeN1gjHYkMUNnSjfmRReTagyN?purpose=fullsize" width="1000">
 
-</div>
 <br><br>
 
 <a href="https://t.me/DGRavanbhai">
@@ -56,6 +56,8 @@ This bot supports Telegram commands, music playback systems, and cloud deploymen
 ✅ Open Source  
 ✅ Beginner Friendly  
 ✅ Pyrogram Based  
+✅ Telegram Voice Chat Support  
+✅ 24/7 Hosting Ready  
 
 ---
 
@@ -165,14 +167,6 @@ python main.py
 
 # ☁️ Deploy on Heroku
 
-## Create Procfile
-
-```bash
-worker: python main.py
-```
-
----
-
 ## Login Heroku
 
 ```bash
@@ -181,10 +175,18 @@ heroku login
 
 ---
 
+## Create Procfile
+
+```bash
+worker: python main.py
+```
+
+---
+
 ## Create App
 
 ```bash
-heroku create your-bot-name
+heroku create music-bot
 ```
 
 ---
@@ -197,7 +199,7 @@ heroku buildpacks:set heroku/python
 
 ---
 
-## Deploy
+## Deploy Bot
 
 ```bash
 git add .
@@ -245,9 +247,11 @@ python main.py
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=DGRavanbhai&show_icons=true&theme=tokyonight">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight">
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DGRavanbhai&theme=tokyonight">
 
 </div>
 
@@ -282,6 +286,13 @@ If you like this project:
 # 📜 License
 
 This project is licensed under the MIT License.
+
+---
+
+# 🔗 Official Links
+
+- Telegram Owner: https://t.me/DGRavanbhai
+- Telegram Group: https://t.me/+y9SXssXwKsIzMGRl
 
 ---
 
