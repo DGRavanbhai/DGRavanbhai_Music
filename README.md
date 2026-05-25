@@ -289,10 +289,71 @@ This project is licensed under the MIT License.
 
 ---
 
+# 📞 Contact & Official Links
+
+<div align="center">
+
+<a href="https://t.me/DGRavanbhai">
+<img src="https://img.icons8.com/color/96/telegram-app--v1.png" width="80"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://t.me/+y9SXssXwKsIzMGRl">
+<img src="https://img.icons8.com/fluency/96/group.png" width="80"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/DGRavanbhai">
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="80"/>
+</a>
+
+<br><br>
+
+<a href="https://t.me/DGRavanbhai">
+<img src="https://img.shields.io/badge/Telegram-DGRavanbhai-blue?style=for-the-badge&logo=telegram">
+</a>
+
+<br><br>
+
+<a href="https://instagram.com/DGRavanbhai">
+<img src="https://img.shields.io/badge/Instagram-DGRavanbhai-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://t.me/+y9SXssXwKsIzMGRl">
+<img src="https://img.shields.io/badge/Join%20Telegram%20Group-Click%20Here-blue?style=for-the-badge&logo=telegram">
+</a>
+
+</div>
+
+---
+
 # 🔗 Official Links
 
-- Telegram Owner: https://t.me/DGRavanbhai
-- Telegram Group: https://t.me/+y9SXssXwKsIzMGRl
+<div align="center">
+
+<a href="https://t.me/DGRavanbhai">
+<img src="https://img.icons8.com/color/96/telegram-app--v1.png" width="70"/>
+</a>
+
+<br>
+
+### [Telegram Owner](https://t.me/DGRavanbhai)
+
+<br>
+
+<a href="https://t.me/+y9SXssXwKsIzMGRl">
+<img src="https://img.icons8.com/fluency/96/group.png" width="70"/>
+</a>
+
+<br>
+
+### [Telegram Group](https://t.me/+y9SXssXwKsIzMGRl)
+
+</div>
 
 ---
 
