@@ -1,47 +1,57 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Bold&size=35&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=Telegram+Music+Bot;Pyrogram+Based+Telegram+Bot;Fast+%7C+Powerful+%7C+Secure;Made+With+Python" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Bold&size=35&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=Music+Bot;Telegram+Music+Streaming+Bot;Fast+%7C+Powerful+%7C+Secure;Made+With+Python" />
 
 <br>
 
-<img src="https://img.shields.io/github/stars/yourusername/telegram-music-bot?style=for-the-badge">
-<img src="https://img.shields.io/github/forks/yourusername/telegram-music-bot?style=for-the-badge">
-<img src="https://img.shields.io/github/issues/yourusername/telegram-music-bot?style=for-the-badge">
-<img src="https://img.shields.io/github/license/yourusername/telegram-music-bot?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/yourusername/music-bot?style=for-the-badge">
+<img src="https://img.shields.io/github/forks/yourusername/music-bot?style=for-the-badge">
+<img src="https://img.shields.io/github/issues/yourusername/music-bot?style=for-the-badge">
+<img src="https://img.shields.io/github/license/yourusername/music-bot?style=for-the-badge">
+
+<br><br>
+
+<a href="https://t.me/DGRavanbhai">
+<img src="https://img.shields.io/badge/Telegram-Owner-blue?style=for-the-badge&logo=telegram">
+</a>
+
+<a href="https://t.me/+y9SXssXwKsIzMGRl">
+<img src="https://img.shields.io/badge/Join-Telegram%20Group-blue?style=for-the-badge&logo=telegram">
+</a>
 
 </div>
 
 ---
 
-# 🎵 Telegram Music Bot
+# 🎵 Music Bot
 
 A powerful Telegram Music Bot built using **Python**, **Pyrogram**, and **Telegram API**.
 
-This bot can play music, respond to commands, and can be deployed easily on cloud hosting platforms.
+This bot supports Telegram commands, music playback systems, and cloud deployment.
+
+---
+
+# 📸 Bot Preview
+
+<div align="center">
+
+<img src="https://telegra.ph/file/95d0d2e48a3b93bb6c4fa.jpg" width="800">
+
+</div>
 
 ---
 
 # 🚀 Features
 
-✅ Fast & Powerful Bot  
-✅ Telegram Command Support  
-✅ Pyrogram Based  
-✅ Easy Deployment  
+✅ Telegram Music Bot  
+✅ Fast & Lightweight  
 ✅ Secure `.env` Variables  
-✅ Heroku Deployment  
-✅ Render Deployment  
+✅ Easy Deployment  
+✅ Heroku Support  
+✅ Render Support  
 ✅ Open Source  
 ✅ Beginner Friendly  
-
----
-
-# 📸 Preview
-
-<div align="center">
-
-<img src="https://telegra.ph/file/6f7d1e5bb8f5b7b5f7b2f.jpg" width="700">
-
-</div>
+✅ Pyrogram Based  
 
 ---
 
@@ -126,7 +136,7 @@ API_HASH = os.getenv("API_HASH")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 app = Client(
-    "mybot",
+    "musicbot",
     api_id=API_ID,
     api_hash=API_HASH,
     bot_token=BOT_TOKEN
@@ -134,7 +144,7 @@ app = Client(
 
 @app.on_message(filters.command("start"))
 def start(client, message):
-    message.reply_text("Hello! Music Bot is Working")
+    message.reply_text("🎵 Music Bot is Working!")
 
 app.run()
 ```
@@ -187,7 +197,7 @@ heroku buildpacks:set heroku/python
 
 ```bash
 git add .
-git commit -m "Deploy Bot"
+git commit -m "Deploy Music Bot"
 git push heroku main
 ```
 
@@ -209,6 +219,24 @@ python main.py
 
 ---
 
+# 📢 Telegram Community
+
+<div align="center">
+
+<a href="https://t.me/DGRavanbhai">
+<img src="https://img.shields.io/badge/Owner-DGRavanbhai-blue?style=for-the-badge&logo=telegram">
+</a>
+
+<br><br>
+
+<a href="https://t.me/+y9SXssXwKsIzMGRl">
+<img src="https://img.shields.io/badge/Join%20Our%20Telegram%20Group-Click%20Here-blue?style=for-the-badge&logo=telegram">
+</a>
+
+</div>
+
+---
+
 # ⭐ GitHub Stats
 
 <div align="center">
@@ -221,21 +249,17 @@ python main.py
 
 ---
 
-# 🛡 Security
-
-✅ Never share your:
-
-- BOT_TOKEN
-- API_HASH
-- `.env` file
-
----
-
 # 👨‍💻 Developer
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Bold&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Made+With+❤️+By+Your+Name" />
+<a href="https://t.me/DGRavanbhai">
+<img src="https://img.shields.io/badge/Telegram-DGRavanbhai-blue?style=for-the-badge&logo=telegram">
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Bold&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Made+With+❤️+By+DGRavanbhai" />
 
 </div>
 
@@ -247,7 +271,7 @@ If you like this project:
 
 ⭐ Star the repository  
 🍴 Fork the repository  
-📢 Share with others  
+📢 Share with friends  
 
 ---
 
